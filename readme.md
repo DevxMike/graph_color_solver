@@ -5,7 +5,7 @@ Usage:
 - prepare a text file that contains the number of vertex colors, the number of vertices and the connections between vertices.\
 \
 Invocation:\
-program_name file_with_graph.txt file_for_solution.txt\
+program_name file_with_graph.txt file_for_solution.txt
 
 
 Example text file:
